@@ -1,0 +1,14 @@
+local godPets = {
+    "Cocofanto Elefanto",
+    "Tralalero Tralala", 
+    "Odin Din Din Dun",
+    "Girafa Celestre",
+    "Gattatino Nyanino",
+    "Trenostruzzo Turbo 3000",
+    "Matteo",
+    "Unclito Samito",
+    "Statutino Libertino",       -- 🆕 Pet mới
+    "Espresso Signora",          -- 🛑 Admin-only
+    "Tigroligre Frutonni",       -- 🍀 Lucky Block God
+    "Orcalero Orcala"           -- 🍀 Lucky Block God
+}
