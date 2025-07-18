@@ -1,4 +1,4 @@
-local godPets = {
+return {
     "Cocofanto Elefanto",
     "Tralalero Tralala", 
     "Odin Din Din Dun",
